@@ -59,5 +59,4 @@ I need to learn more on semantic HTML and responsive CSS design.
 - Website - [Tel Sabate](https://www.your-site.com)
 - Frontend Mentor - [@telsabate-hub](https://www.frontendmentor.io/profile/telsabate-hub)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
