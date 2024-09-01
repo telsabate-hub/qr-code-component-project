@@ -11,7 +11,7 @@ body {
     font-size: 15px;
 }
 
-figure {
+.card {
     background-color: hsl(0, 0%, 100%);
     display: flex;
     flex-direction: column;
@@ -23,7 +23,7 @@ figure {
     border-radius: 1em;
 }
 
-figure img {
+.card img {
     width: 230px;
     margin: auto;
     border-radius: .5em;
@@ -38,7 +38,7 @@ p {
     line-height: 140%;
 }
 
-figcaption {
+h1 {
     font-size: 1.2em;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
